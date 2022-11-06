@@ -1,5 +1,5 @@
 # BarryBunsClient
-Best unratted Gemstone macro :)
+Best Gemstone macro :)
 
 Click the first file and then download the raw file.
 
