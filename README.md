@@ -9,6 +9,6 @@ Click the first file and then download the raw file.
 /bbc
 
 You need:
-range weapon
-drill
-aotv with etherwarp
+range weapon,
+drill,
+aotv with etherwarp,
